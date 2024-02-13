@@ -54,7 +54,7 @@ yarn -v
 
 1 - Para clonar o projeto:
 ```
-git clone git@github.com:joaoD3V/nlw-spacetime.git
+git clone git@github.com:joaoD3V/nlw-expert-notes.git
 ```
 
 ### Para rodar o projeto web
